@@ -3,13 +3,13 @@
 <a href="https://www.linkedin.com/in/luizhcdev/"><img src="https://img.shields.io/badge/-Luiz Castro-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:luizcastro2122@gmail.com"><img src="https://img.shields.io/badge/-luizcastro2122@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-###About me:**
+### About me:
 
 My name is Luiz. Full-stack developer and Bachelor's degree in Information Systems at Federal Institute of Bahia (IFBA).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizhcastro&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-###Languages and Tools:
+### Languages and Tools:
 
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
