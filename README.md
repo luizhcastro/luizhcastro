@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-<a href="https://www.linkedin.com/in/luizhcdev/"><img src="https://img.shields.io/badge/-Luiz Castro-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:luizcastro2122@gmail.com"><img src="https://img.shields.io/badge/-luizcastro2122@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/luizhcdev/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:luizcastro2122@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.youtube.com/@luizhcdev"><img src="https://img.shields.io/badge/-YouTube Chanel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 ### About me:
 
