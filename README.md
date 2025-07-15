@@ -1,16 +1,67 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**luizhcastro/luizhcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/luizhcdev/"><img src="https://img.shields.io/badge/-Luiz Castro-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:luizcastro2122@gmail.com"><img src="https://img.shields.io/badge/-luizcastro2122@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-Here are some ideas to get you started:
+**About me:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Luiz. Full-stack developer and Bachelor's degree in Information Systems at Federal Institute of Bahia (IFBA).
+
+**Languages and Tools:**
+
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> 
+  </a>
+  <a href="https://angularjs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/angularjs/angularjs-plain.svg" alt="angularjs" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github actions" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="google cloud" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain-wordmark.svg" alt="junit" width="40" height="40"/>
+  </a>
+  <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mockito/mockito-plain.svg" alt="mockito" width="40" height="40"/>
+  </a>
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original-wordmark.svg" alt="cypress" width="40" height="40"/>
+  </a>
+  <a href="https://rest-assured.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/8315333" alt="rest-assured" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+</p>
