@@ -1,13 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
 <a href="https://www.linkedin.com/in/luizhcdev/"><img src="https://img.shields.io/badge/-Luiz Castro-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:luizcastro2122@gmail.com"><img src="https://img.shields.io/badge/-luizcastro2122@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-**About me:**
+###About me:**
 
 My name is Luiz. Full-stack developer and Bachelor's degree in Information Systems at Federal Institute of Bahia (IFBA).
 
-**Languages and Tools:**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizhcastro&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+###Languages and Tools:
 
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -33,9 +35,9 @@ My name is Luiz. Full-stack developer and Bachelor's degree in Information Syste
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github actions" width="40" height="40"/>
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="40" height="40"/> 
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="google cloud" width="40" height="40"/> 
@@ -49,14 +51,8 @@ My name is Luiz. Full-stack developer and Bachelor's degree in Information Syste
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain-wordmark.svg" alt="junit" width="40" height="40"/>
   </a>
-  <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mockito/mockito-plain.svg" alt="mockito" width="40" height="40"/>
-  </a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original-wordmark.svg" alt="cypress" width="40" height="40"/>
-  </a>
-  <a href="https://rest-assured.io/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/8315333" alt="rest-assured" width="40" height="40"/>
   </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> 
